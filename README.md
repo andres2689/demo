@@ -2,7 +2,4 @@ hola mundo.
 
 modificando archivo
 
-nueva modificación
-
-
-conflicto
+modificando * 2
