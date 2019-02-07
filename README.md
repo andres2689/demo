@@ -4,4 +4,4 @@ modificando archivo
 
 nueva modificación
 
-on a branch
+conflicto!
